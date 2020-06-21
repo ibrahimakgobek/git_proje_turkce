@@ -9,10 +9,11 @@ public class FirstClass {
 
              
 
-           System.out.println("conflict yapmak istiyoruz ");
+           System.out.println("we are aganist conflict ");
 
 	        System.out.println("first commit from remote repository");
 
+	
 	}
 
 }
